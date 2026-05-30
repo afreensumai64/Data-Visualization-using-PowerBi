@@ -3,7 +3,7 @@ A collection interactive Power BI dashboards designed to solve real-world busine
 
 
 ### 1. Financial Analysis Dashboard
-**Dataset:** [Financials.csv](./Financials.csv)
+**Dataset:** [Financial Dataset - Kaggle](https://www.kaggle.com/datasets/atharvaarya25/financials)
 
 
 ### 2. Human Resources Analytics
