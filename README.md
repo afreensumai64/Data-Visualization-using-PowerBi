@@ -7,7 +7,7 @@ A collection interactive Power BI dashboards designed to solve real-world busine
 
 
 ### 2. Human Resources Analytics
-**Dataset:** [HR Analytics Dataset - Kaggle]([https://www.kaggle.com/datasets/atharvaarya25/financials]
+**Dataset:** [HR Analytics Dataset - Kaggle]([https://www.kaggle.com/datasets/atharvaarya25/financials])
 
 
 ### 3. Real Estate Market Trends
